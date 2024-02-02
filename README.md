@@ -1,3 +1,3 @@
-# Capstone_1_AirBnb_project
-this is EDA Capstone project of AirBnb, analysing the data of "Air Bed and Breakfast".
+# AirBnb Bookings Analysis
+this is EDA project of AirBnb, analysing the data of "Air Bed and Breakfast".
 
